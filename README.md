@@ -7,13 +7,9 @@ Welcome to the Awesome List for Talking Head Generation! This curated collection
 - [GitHub projects](#github-projects)
 - [Articles & Blogs](#articles-&-blogs)
 - [Online Courses](#online-courses)
-- [Books](#books)
 - [Research Papers](#research-papers)
-- [Videos](#videos)
 - [Tools & Software](#tools-&-software)
-- [Conferences & Events](#conferences-&-events)
 - [Slides & Presentations](#slides-&-presentations)
-- [Podcasts](#podcasts)
 
 ## GitHub projects
 
