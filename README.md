@@ -5,95 +5,110 @@ Welcome to the Awesome List for Talking Head Generation! This curated collection
 ## Table of Contents
 
 - [GitHub projects](#github-projects)
-- [Google Scholar papers](#google-scholar-papers)
+- [Articles & Blogs](#articles-&-blogs)
+- [Online Courses](#online-courses)
+- [Books](#books)
+- [Research Papers](#research-papers)
+- [Videos](#videos)
+- [Tools & Software](#tools-&-software)
+- [Conferences & Events](#conferences-&-events)
+- [Slides & Presentations](#slides-&-presentations)
+- [Podcasts](#podcasts)
 
 ## GitHub projects
 
-- 🔥 8985 - [AudioGPT](https://github.com/AIGC-Audio/AudioGPT) - AudioGPT is about understanding and generating speech, music, sound, and talking head. It's a versatile project that combines audio and visuals.
-- 🔥 5656 - [SadTalker](https://github.com/OpenTalker/SadTalker) - CVPR 2023 contribution for learning realistic 3D motion coefficients for stylized audio-driven single image talking face animation.
-- 🔥 1902 - [Talking Head Anime Demo](https://github.com/pkhungurn/talking-head-anime-demo) - A demo for creating "Talking Head Anime from a Single Image".
-- 🔥 1133 - [VideoReTalking](https://github.com/OpenTalker/video-retalking) - SIGGRAPH Asia 2022 project that focuses on audio-based lip synchronization for talking head video editing in the wild.
-- 🔥 1026 - [Talking Head Anime 2 Demo](https://github.com/pkhungurn/talking-head-anime-2-demo) - Demo programs for the more expressive "Talking Head Anime from a Single Image 2" project.
-- 🔥 905 - [GeneFace](https://github.com/yerfor/GeneFace) - ICLR 2023 project, GeneFace, which deals with generalized and high-fidelity 3D talking face synthesis.
-- 🔥 886 - [Live Speech Portraits](https://github.com/YuanxunLu/LiveSpeechPortraits) - SIGGRAPH Asia 2021 project for creating real-time photorealistic talking-head animations called "Live Speech Portraits".
-- 🔥 796 - [Realistic-Neural-Talking-Head-Models](https://github.com/vincent-thevenin/Realistic-Neural-Talking-Head-Models) - An implementation of Few-Shot Adversarial Learning of Realistic Neural Talking Head Models by Egor Zakharov et al.
-- 🔥 778 - [Depth-Aware Generative Adversarial Network](https://github.com/harlanhong/CVPR2022-DaGAN) - Official code for CVPR2022 paper on  talking head video generation using Depth-Aware Generative Adversarial Network.
-- 🔥 744 - [AD-NeRF](https://github.com/YudongGuo/AD-NeRF) - A PyTorch implementation of "AD-NeRF: Audio Driven Neural Radiance Fields for Talking Head Synthesis".
-- 🔥 669 - [Talking Head Anime 3 Demo](https://github.com/pkhungurn/talking-head-anime-3-demo) - Demo programs for the project "Talking Head(?) Anime from a Single Image 3: Now the Body Too".
-- 🔥 603 - [Audio-driven-TalkingFace-HeadPose](https://github.com/yiranran/Audio-driven-TalkingFace-HeadPose) - Code for "Audio-driven Talking Face Video Generation with Learning-based Personalized Head Pose".
-- 🔥 590 - [Talking Heads](https://github.com/grey-eye/talking-heads) - Another implementation of "Few-Shot Adversarial Learning of Realistic Neural Talking Head Models" by Egor Zakharov et al.
-- 🔥 559 - [One-Shot Free-View Neural Talking-Head Synthesis](https://github.com/zhanglonghao1992/One-Shot_Free-View_Neural_Talking_Head_Synthesis) - Pytorch implementation for "One-Shot Free-View Neural Talking-Head Synthesis for Video Conferencing".
-- 🔥 343 - [MetaPortrait](https://github.com/Meta-Portrait/MetaPortrait) - CVPR 2023 project, MetaPortrait, that aims at identity-preserving talking head generation with fast personalized adaptation.
-- 🔥 339 - [Text2Video](https://github.com/sibozhang/Text2Video) - ICASSP 2022 project titled "Text2Video: text-driven talking-head video synthesis with phonetic dictionary".
-- 🔥 254 - [Learning Dynamic Facial Radiance Fields](https://github.com/sstzal/DFRF) - ECCV2022 implementation for "Learning Dynamic Facial Radiance Fields for Few-Shot Talking Head Synthesis".
-- 🔥 253 - [Diffused Heads](https://github.com/MStypulkowski/diffused-heads) - Official repository for "Diffused Heads: Diffusion Models Beat GANs on Talking-Face Generation".
-- 🔥 193 - [Audio2Head](https://github.com/wangsuzhen/Audio2Head) - Conference of IJCAI 2021 paper for "Audio2Head: Audio-driven One-shot Talking-head Generation with Natural Head Motion".
-- 🌟187 - [Talking-head-Generation-with-Rhythmic-Head-Motion](https://github.com/lelechen63/Talking-head-Generation-with-Rhythmic-Head-Motion): A framework to generate talking head videos with rhythmic head motions, adding life-like movements and enhancing realism.
-- 🌟161 - [Co-Speech-Motion-Generation](https://github.com/TheTempAccount/Co-Speech-Motion-Generation): Freeform body motion generation from speech, with potential applications in virtual characters and animations.
-- 🌟143 - [Few-Shot-Adversarial-Learning-for-face-swap](https://github.com/shoutOutYangJie/Few-Shot-Adversarial-Learning-for-face-swap): Unofficial re-implementation of the paper "Few-Shot Adversarial Learning of Realistic Neural Talking Head Models," fusing deep learning and computer vision techniques.
-- 🌟118 - [Write-a-Speaker](https://github.com/FuxiVirtualHuman/Write-a-Speaker): Mocap dataset of “Write-a-speaker: Text-based Emotional and Rhythmic Talking-head Generation,” which creates expressive talking heads by leveraging mocap data and text input.
-- 🌟102 - [face-vid2vid](https://github.com/zhengkw18/face-vid2vid): Unofficial implementation of one-shot free-view neural talking head synthesis, enabling customization for various face poses and lighting conditions.
-- 🌟83 - [talking-head-generation-survey](https://github.com/lelechen63/talking-head-generation-survey): Official GitHub repo for the paper "What comprises a good talking-head video generation?: A Survey and Benchmark," discussing the essential qualities and state-of-the-art models in talking head generation.
-- 🌟65 - [ask-fake-ai-karen](https://github.com/ChintanTrivedi/ask-fake-ai-karen): AI-generated talking head videos of fake people responding to user input questions, exploring the interaction possibilities with generated characters.
-- 🌟11 - [fivem-tgiann-look-talking-player](https://github.com/TGIANN/fivem-tgiann-look-talking-player): A small game addition where the character turns the head towards the talking player, increasing immersion.
-- 🌟5 - [TalkingHead](https://github.com/pulcher/TalkingHead): A creepy talking head with eyes, demonstrating creative applications in talking head generation.
+- [AudioGPT](https://github.com/AIGC-Audio/AudioGPT) : Understanding and Generating Speech, Music, Sound, and Talking Head. 🗣️🎵
+- [SadTalker](https://github.com/OpenTalker/SadTalker) : Learning Realistic 3D Motion Coefficients for Stylized Audio-Driven Single Image Talking Face Animation. 🎭🎶
+- [Thin-Plate-Spline-Motion-Model](https://github.com/yoyo-nb/Thin-Plate-Spline-Motion-Model) : Thin-Plate Spline Motion Model for Image Animation. 🖼️
+- [GeneFace](https://github.com/yerfor/GeneFace) : Generalized and High-Fidelity 3D Talking Face Synthesis; ICLR 2023; Official code. 👤💬
+- [CVPR2022-DaGAN](https://github.com/harlanhong/CVPR2022-DaGAN) : Official code for CVPR2022 paper: Depth-Aware Generative Adversarial Network for Talking Head Video Generation. 👥📹
+- [sd-wav2lip-uhq](https://github.com/numz/sd-wav2lip-uhq) : Wav2Lip UHQ extension for Automatic. 👄
+- [Text2Video](https://github.com/sibozhang/Text2Video) : ICASSP 2022: "Text2Video: text-driven talking-head video synthesis with phonetic dictionary". 🔤🎞️
+- [OTAvatar](https://github.com/theEricMa/OTAvatar) : This is the official repository for OTAvatar: One-shot Talking Face Avatar with Controllable Tri-plane Rendering [CVPR2023]. 👤🎭
+- [Audio2Head](https://github.com/wangsuzhen/Audio2Head) : Code for paper "Audio2Head: Audio-driven One-shot Talking-head Generation with Natural Head Motion" in the conference of IJCAI 2021. 🗣️👤
+* [IP_LAP](https://github.com/Weizhi-Zhong/IP_LAP) : CVPR2023 talking face implementation for Identity-Preserving Talking Face Generation With Landmark and Appearance Priors. 🔥🤖
+* [Wunjo AI](https://github.com/wladradchenko/wunjo.wladradchenko.ru) : Synthesize & clone voices in English, Russian & Chinese, real-time speech recognition, deepfake face & lips animation, face swap with one photo, change video by text prompts, segmentation, and retouching. Open-source, local & free. 🗣️👤💬
+* [LIHQ](https://github.com/johnGettings/LIHQ) : Long-Inference, High Quality Synthetic Speaker (AI avatar/ AI presenter). 🎙️👤
+* [Co-Speech-Motion-Generation](https://github.com/TheTempAccount/Co-Speech-Motion-Generation) : Freeform Body Motion Generation from Speech. 🗣️🚶
+* [Neural Head Reenactment with Latent Pose Descriptors](https://github.com/shrubb/latent-pose-reenactment) : The authors' implementation of the "Neural Head Reenactment with Latent Pose Descriptors" (CVPR 2020) paper. 🤖👤
+* [NED](https://github.com/foivospar/NED) : PyTorch implementation for NED (CVPR 2022). It can be used to manipulate the facial emotions of actors in videos based on emotion labels or reference styles. 😃🎭🎥
+* [WACV23_TSNet](https://github.com/nihaomiao/WACV23_TSNet) : The pytorch implementation of our WACV23 paper "Cross-identity Video Motion Retargeting with Joint Transformation and Synthesis". 🎬✨
+* [ICCV2023-MCNET](https://github.com/harlanhong/ICCV2023-MCNET) : The official code of our ICCV2023 work: Implicit Identity Representation Conditioned Memory Compensation Network for Talking Head video Generation. 🎥🤖
+* [Speech2Video](https://github.com/sibozhang/Speech2Video) : Code for ACCV 2020 "Speech2Video Synthesis with 3D Skeleton Regularization and Expressive Body Poses". 🗣️🎥💃
+* [StyleLipSync](https://github.com/TaekyungKi/StyleLipSync) : Official pytorch implementation of "StyleLipSync: Style-based Personalized Lip-sync Video Generation". 💋🎥
 
-## Google Scholar papers
+## Articles & Blogs
 
-- :star: [Text-based editing of talking-head video](https://dl.acm.org/doi/abs/10.1145/3306346.3323028) (206 citations) - Proposes a novel method to edit talking-head videos to change speech content or remove filler words, making it challenging for viewers to distinguish between the original and the edited content.
-- :trophy: [Few-shot adversarial learning of realistic neural talking head models](http://openaccess.thecvf.com/content_ICCV_2019/html/Zakharov_Few-Shot_Adversarial_Learning_of_Realistic_Neural_Talking_Head_Models_ICCV_2019_paper.html) (573 citations) - Develops a photorealistic talking-head model that can create realistic and personalized talking head sequences, even for portrait paintings.
-- :tada: [Talking-head generation with rhythmic head motion](https://link.springer.com/chapter/10.1007/978-3-030-58545-7_3) (104 citations) - Introduces a neural approach for talking-head video generation which considers the rhythmic head motion aligned with the audio input.
-- :sparkles: [Mixed feelings: expression of non-basic emotions in a muscle-based talking head](https://link.springer.com/article/10.1007/s10055-005-0153-5) (141 citations) - Presents a muscle-based talking-head system capable of expressing a continuum of non-basic emotions through an anatomically accurate model.
-- :rocket: [One-shot free-view neural talking-head synthesis for video conferencing](http://openaccess.thecvf.com/content/CVPR2021/html/Wang_One-Shot_Free-View_Neural_Talking-Head_Synthesis_for_Video_Conferencing_CVPR_2021_paper.html) (203 citations) - Proposes a neural talking-head video synthesis model that learns to synthesize a talking-head video using a source image and is applicable to video conferencing.
-- :musical_note: [Makelttalk: speaker-aware talking-head animation](https://dl.acm.org/doi/abs/10.1145/3414685.3417774) (208 citations) - Generates expressive talking-head videos from a single facial image, considering both facial expressions and talking-head dynamics.
-- :tv: [Photo-real talking head with deep bidirectional LSTM](https://ieeexplore.ieee.org/abstract/document/7178899/) (133 citations) - Presents a deep bidirectional LSTM model for generating video-realistic talking-head animations to attract users' attention in human-machine interaction.
-- :loud_sound: [Ad-nerf: Audio driven neural radiance fields for talking head synthesis](http://openaccess.thecvf.com/content/ICCV2021/html/Guo_AD-NeRF_Audio_Driven_Neural_Radiance_Fields_for_Talking_Head_Synthesis_ICCV_2021_paper.html) (141 citations) - Introduces an audio-driven talking head synthesis method using neural radiance fields to generate natural talking-head sequences.
-- :movie_camera: [Expressive talking head generation with granular audio-visual control](http://openaccess.thecvf.com/content/CVPR2022/html/Liang_Expressive_Talking_Head_Generation_With_Granular_Audio-Visual_Control_CVPR_2022_paper.html) (46 citations) - Allows for granular audio-visual control to generate expressive talking head animations that consider both lip synchronization and emotional expression.
-- :headphones: [Audio2head: Audio-driven one-shot talking-head generation with natural head motion](https://arxiv.org/abs/2107.09293) (59 citations) - Proposes a method for one-shot talking-head generation that uses audio-driven techniques and estimates holistic head movements for photo-realistic talking-head videos.
-- 📚 [Write-a-speaker: Text-based emotional and rhythmic talking-head generation](https://ojs.aaai.org/index.php/AAAI/article/view/16286) (38 citations)\
-A novel text-based talking-head video generation framework that creates high-quality photorealistic talking-head videos with various facial expressions.
-- 📚 [Learned spatial representations for few-shot talking-head synthesis](http://openaccess.thecvf.com/content/ICCV2021/html/Meshry_Learned_Spatial_Representations_for_Few-Shot_Talking-Head_Synthesis_ICCV_2021_paper.html) (19 citations)\
-A two-step framework that synthesizes talking heads by decomposing the process into spatial and style components.
-- 📚 [DFA-NeRF: Personalized talking head generation via disentangled face attributes neural rendering](https://arxiv.org/abs/2201.00791) (32 citations)\
-A comparison of different aspects of talking head generation works, focusing on methods for specific targets or arbitrary images and the use of audio features.
-- 📚 [Training a talking head](https://ieeexplore.ieee.org/abstract/document/1167046/) (57 citations)\
-Describes the creation of a talking head using Cyberware laser scan data and Optotrak LED markers.
-- 📚 [Free-headgan: Neural talking head synthesis with explicit gaze control](https://ieeexplore.ieee.org/abstract/document/10061572/) (4 citations)\
-Talking head synthesis using an image-to-image translation network, based on the generator of HeadGAN, without AdaIN layers.
-- 📚 [Txt2vid: Ultra-low bitrate compression of talking-head videos via text](https://ieeexplore.ieee.org/abstract/document/9953071/) (10 citations)\
-A novel compression pipeline for audio-video talking-head videos, converting them to text using a state-of-the-art voice cloning model.
-- 📚 [One-Shot High-Fidelity Talking-Head Synthesis with Deformable Neural Radiance Field](http://openaccess.thecvf.com/content/CVPR2023/html/Li_One-Shot_High-Fidelity_Talking-Head_Synthesis_With_Deformable_Neural_Radiance_Field_CVPR_2023_paper.html) (1 citation)\
-A high-fidelity and deformable NeRF (HiDe-NeRF) approach for one-shot talking head synthesis, improving synthesis fidelity.
-- 📚 [Styletalk: One-shot talking head generation with controllable speaking styles](https://arxiv.org/abs/2301.01081) (5 citations)\
-A talking head generation system capable of generating videos with diverse speaking styles, evaluated for quality.
-- 📚 [Difftalk: Crafting diffusion models for generalized talking head synthesis](https://arxiv.org/abs/2301.03786) (8 citations)\
-A crafted conditional Diffusion model for generalized Talking head synthesis (DiffTalk), capable of synthesizing high-fidelity and expressive talking heads.
-- 📚 [Talking Head from Speech Audio using a Pre-trained Image Generator](https://dl.acm.org/doi/abs/10.1145/3503161.3548101) (3 citations)\
-An approach that generates talking-head videos with accurate mouth movements conditioned on speech audio, improving visual quality.
-- 🟢 [Generative adversarial talking head: Bringing portraits to life with a weakly supervised neural network](https://arxiv.org/abs/1803.07716) (36 citations) \
-This paper introduces Generative Adversarial Talking Head (GATH), a novel deep generative neural network for fully automatic facial expression synthesis from an arbitrary portrait.
-- 🟢 [High quality lip-sync animation for 3D photo-realistic talking head](https://ieeexplore.ieee.org/abstract/document/6288925/) (41 citations) \
-This research extends prior high-quality 2D photo-realistic talking head work to create a 3D talking head with high-quality lip-sync animation.
-- 🟢 [3d-talkemo: Learning to synthesize 3D emotional talking head](https://arxiv.org/abs/2104.12051) (9 citations) \
-This paper presents a deep neural network that generates 3D talking head animation with various emotions, a challenge still unsolved in facial animation.
-- 🟢 [Memory-Augmented Contrastive Learning for Talking Head Generation](https://ieeexplore.ieee.org/abstract/document/10096593/) (2 citations) \
-This research focuses on talking head generation, with the goal to synthesize a realistic-looking talking head video from one reference facial image and a piece of speech.
-- 🟢 [Audio-driven Talking Head Generation with Transformer and 3D Morphable Model](https://dl.acm.org/doi/abs/10.1145/3503161.3551574) (4 citations) \
-This paper presents a method for talking head video generation conditioned on the identity and audio signals of a speaker, using a combination of transformers and 3D morphable models.
-- 🟢 [An expressive text-driven 3d talking head](https://dl.acm.org/doi/abs/10.1145/2503385.2503473) (17 citations) \
-This research works on creating an expressive 3D talking head by leveraging a large dataset, with the first step being constructing a 2D talking head using Active Appearance Models.
-- 🟢 [Talking head generation with audio and speech related facial action units](https://arxiv.org/abs/2110.09951) (9 citations) \
-This paper explores how to generate a talking head video by inputting a person's image and audio, and identifying the relevant facial action units to match the speech.
-- 🟢 [StyleTalker: One-shot Style-based Audio-driven Talking Head Video Generation](https://arxiv.org/abs/2208.10922) (5 citations) \
-StyleTalker is a talking head video generation system that is able to synthesize talking head videos with impressive results, using latent codes to reflect the speech styles.
-- 🟢 [AnyoneNet: Synchronized Speech and Talking Head Generation for Arbitrary Persons](https://ieeexplore.ieee.org/abstract/document/9917325/) (5 citations) \
-AnyoneNet generates text-driven talking-head videos using a single face image of an arbitrary person as input, creating synchronized lip movements in the talking head.
-- 🟢 [An audiovisual talking head for augmented speech generation: models and animations based on a real speaker's articulatory data](https://link.springer.com/chapter/10.1007/978-3-540-70517-8_14) (74 citations) \
-This research aims to control a talking head with real speaker's articulatory data, enabling more accurate and natural animation.
-- 🟢 [Progressive Disentangled Representation Learning for Fine-Grained Controllable Talking Head Synthesis](http://openaccess.thecvf.com/content/CVPR2023/html/Wang_Progressive_Disentangled_Representation_Learning_for_Fine-Grained_Controllable_Talking_Head_Synthesis_CVPR_2023_paper.html) (1 citation) \
-This paper presents a novel one-shot talking head synthesis method that achieves disentangled and fine-grained control over lip motion, eye gaze & blink, head pose, and emotional expression.
-- 🟢 [Videoretalking: Audio-based lip synchronization for talking head video editing in the wild](https://dl.acm.org/doi/abs/10.1145/3550469.3555399) (3 citations) \
-VideoReTalking is a new system that edits the faces of real-world talking head videos based on modified expressions, focusing on lip synchronization according to the input audio.
+- [How to Create Fake Talking Head Videos With Deep Learning (Code Tutorial)](https://medium.com/swlh/how-to-create-fake-talking-head-videos-with-deep-learning-code-tutorial-f9cfc0c19ab5): An article explaining the process of generating fake talking head videos using deep learning techniques.
+- [AudioGPT: Understanding and Generating Speech, Music, Sound](https://arxiv.org/abs/2304.12995): A research paper introducing AudioGPT, a multi-modal AI system that can process complex audio information and understand and generate speech, music, sound, and talking head content.
+- [Text-based Editing of Talking-head Video](https://arxiv.org/pdf/1906.01524): An academic publication discussing the editing of talking-head videos using text-based instructions.
+- [Few-Shot Adversarial Learning of Realistic Neural Talking Head](https://arxiv.org/abs/1905.08233): A research paper presenting a system capable of learning personalized talking head models from just a few image views of a person, using adversarial training techniques.
+- [DisCoHead: Audio-and-Video-Driven Talking Head Generation](https://arxiv.org/abs/2303.07697): A paper describing DisCoHead, a method that disentangles and controls head pose and facial expressions in talking head generation, without supervision.
+- [Microsoft's 3D Photo Realistic Talking Head](https://blogs.microsoft.com/ai/microsofts-3d-photo-realistic-talking-head/): A blog post showcasing Microsoft's 3D talking head technology, which combines photorealistic video with a 3D mesh model.
+- [Depth-Aware Generative Adversarial Network for Talking Head](https://arxiv.org/abs/2203.06605): A research paper proposing a GAN-based approach that leverages dense 3D facial geometry to generate realistic and accurate talking head videos.
+- [Talking-head Generation with Rhythmic Head Motion](https://arxiv.org/abs/2007.08547): This article presents a method for generating realistic talking-head videos with natural head movements, addressing the challenge of generating lip-synced videos while incorporating natural head motion. The proposed approach utilizes a 3D-aware generative network along with a hybrid embedding module and a non-linear composition module, resulting in controllable and photo-realistic talking-head videos with natural head movements.
+- [Learned Spatial Representations for Few-shot Talking-Head Synthesis](https://arxiv.org/abs/2104.14557): This article introduces a novel approach for few-shot talking-head synthesis by factorizing the representation of a subject into its spatial and style components. The proposed method predicts a dense spatial layout for the target image and utilizes it for synthesizing the target frame, achieving improved preservation of the subject's identity in the source images.
+- [Efficient Emotional Adaptation for Audio-Driven Talking-Head](https://arxiv.org/abs/2309.04946): This article proposes the Emotional Adaptation for Audio-driven Talking-head (EAT) method, which transforms emotion-agnostic talking-head models into emotion-controllable ones in a cost-effective and efficient manner. The approach utilizes lightweight adaptations to enable precise and realistic emotion controls, achieving state-of-the-art performance on widely-used benchmarks.
+- [High-Fidelity and Freely Controllable Talking Head Video Generation](https://arxiv.org/abs/2304.10168): This article addresses the challenges faced by current methods in generating high-quality and controllable talking-head videos. It introduces a novel model that leverages self-supervised learned landmarks and 3D face model-based landmarks to model the motion, along with a motion-aware multi-scale feature alignment module. The proposed method produces high-fidelity talking-head videos with free control over head pose and expression.
+- [Implicit Identity Representation Conditioned Memory Compensation](https://arxiv.org/abs/2307.09906): This article proposes a global facial representation space and a novel implicit identity representation conditioned memory compensation network for high-fidelity talking head generation. The network module learns a unified spatial facial meta-memory bank, which compensates warped source facial features to overcome limitations due to complex motions in the driving video, resulting in improved generation quality.
+- [Avatar Fingerprinting for Authorized Use of Synthetic Talking-Head](https://arxiv.org/abs/2305.03713): This article focuses on the task of avatar fingerprinting, which verifies the trustworthiness of rendered talking-head videos. It proposes an embedding that groups the motion signatures of one identity together, allowing the identification of synthetic videos using the appearance of a specific individual driving the expressions.
+- [Style Transfer for 2D Talking Head Animation](https://arxiv.org/abs/2303.09799): This article presents a method for generating talking head animation with learnable style references. It reconstructs 2D talking head animation based on a single input image and an audio stream, utilizing facial landmarks motion, style-pattern construction, and a style-aware image generator. The method achieves better results than recent state-of-the-art methods in generating photo-realistic and fidelity 2D animation.
+- [One-Shot Free-View Neural Talking-Head Synthesis for Video](https://arxiv.org/abs/2011.15126): This article proposes a neural talking-head video synthesis model that learns to synthesize videos using a source image containing the target person's appearance and a driving video for motion. The model achieves high visual quality and bandwidth efficiency, outperforming competing methods on benchmark datasets.
+- [Progressive Disentangled Representation Learning for Fine](https://arxiv.org/abs/2211.14506): This article presents a one-shot talking head synthesis method that achieves disentangled control over lip motion, eye gaze & blink, head pose, and emotional expression. It utilizes a progressive disentangled representation learning strategy to isolate each motion factor, allowing for fine-grained control and high-quality speech and lip-motion synchronization.
+- [VideoReTalking: Audio-based Lip Synchronization for Talking Head](https://arxiv.org/abs/2211.14758): This article introduces VideoReTalking, a system for editing real-world talking head videos according to input audio. It disentangles the editing task into face video generation, audio-driven lip-sync, and face enhancement, ultimately producing a high-quality and lip-syncing output video. The system utilizes learning-based approaches in a sequential pipeline, without requiring user intervention.
+
+## Online Courses
+
+- [Video Production: You Can Make Simple Talking Head Video | Udemy](https://www.udemy.com/course/how-to-make-simple-talking-head-video/) 🎥: This Video Production course teaches you how to create professional and engaging talking head videos.
+- [The Complete Talking Head Video Production Masterclass | Udemy](https://www.udemy.com/course/the-complete-talking-head-video-production-masterclass/) 🎥: Dive into the world of talking head video production with this comprehensive and in-depth course.
+- [Video Production - Inexpensive Talking Head Video - Business | Udemy](https://www.udemy.com/course/video-production-inexpensive-talking-head-video-business/) 🎥: Learn how to create simple and effective talking head videos for various business communication needs.
+- [How to Create a Talking Head Video | Udemy](https://www.udemy.com/course/how-to-create-a-talking-head-video/) 🎥: A beginner-friendly course that covers the technicalities of filming and creating talking head videos.
+
+## Research Papers
+
+- [Talking-Heads Attention](https://arxiv.org/abs/2003.02436): Introducing "talking-heads attention," a variation on multi-head attention that improves language modeling and comprehension tasks.
+- [Few-Shot Adversarial Learning of Realistic Neural Talking Head](https://arxiv.org/abs/1905.08233): Presenting a system that enables the generation of realistic talking head models from a few image views of a person.
+- [MakeItTalk: Speaker-Aware Talking-Head Animation](https://arxiv.org/abs/2004.12992): Proposing a method for generating expressive talking heads from a single facial image with audio as the only input.
+- [StyleTalk: One-shot Talking Head Generation with Controllable](https://arxiv.org/abs/2301.01081): Introducing a framework for generating one-shot talking heads with diverse personalized speaking styles.
+- [DiffTalk: Crafting Diffusion Models for Generalized](https://arxiv.org/abs/2301.03786): Modeling talking head generation as an audio-driven denoising process using Latent Diffusion Models.
+- [One-Shot High-Fidelity Talking-Head Synthesis with Deformable](https://arxiv.org/abs/2304.05097): Proposing a method for generating high-fidelity talking heads by employing explicit 3D structural representations.
+- [AD-NeRF: Audio Driven Neural Radiance Fields for Talking Head](https://arxiv.org/abs/2103.11078): Presenting a framework for generating high-fidelity talking head videos directly from input audio using neural scene representation networks.
+- [Depth-Aware Generative Adversarial Network for Talking Head](https://arxiv.org/abs/2203.06605): Introducing a self-supervised geometry learning method and leveraging dense 3D facial geometry for accurate talking head video generation.
+- [What comprises a good talking-head video generation?: A Survey](https://arxiv.org/abs/2005.03201): This paper presents a benchmark and evaluation metrics for talking-head video generation, addressing the limitations of subjective evaluations. It explores desired properties such as identity preservation, lip synchronization, high video quality, and natural-spontaneous motion.
+- [Text-based Editing of Talking-head Video](https://arxiv.org/abs/1906.01524): The paper proposes a method to edit talking-head videos based on their transcript, allowing for modifications in speech content while maintaining a seamless audio-visual flow. It utilizes annotations of facial features and a parametric face model for realistic video output.
+- [MetaPortrait: Identity-Preserving Talking Head Generation with Fast Personalized Adaptation](https://arxiv.org/abs/2212.08062): This work introduces an identity-preserving talking head generation framework that utilizes dense landmarks for accurate geometry-aware flow fields. It also proposes adaptive fusion of source identity during synthesis and a fast adaptation model using meta-learning for personalized fine-tuning.
+- [Learning Dynamic Facial Radiance Fields for Few-Shot Talking Head Synthesis](https://arxiv.org/abs/2207.11770): The paper introduces Dynamic Facial Radiance Fields (DFRF) for few-shot talking head synthesis, which generalizes to unseen identities with limited training data. It conditions face radiance field on 2D appearance images, allowing flexible adjustment to new identities with few reference images.
+- [Audio2Head: Audio-driven One-shot Talking-head Generation with Natural Head Motions](http://arxiv.org/abs/2107.09293): This work proposes an audio-driven talking-head method that produces photo-realistic videos from a single reference image. It addresses challenges of producing natural head motions matching speech prosody while maintaining appearance during large head motions. It utilizes a head pose predictor and a motion field generator.
+- [Efficient Emotional Adaptation for Audio-Driven Talking-Head Synthesis](https://arxiv.org/abs/2309.04946): The paper introduces the Emotional Adaptation for Audio-driven Talking-head (EAT) method, which transforms emotion-agnostic talking-head models into emotion-controllable ones through parameter-efficient adaptations. It utilizes adaptations from different perspectives to enable realistic emotion controls.
+- [Talking Head Generation with Probabilistic Audio-to-Visual Diffusion](https://arxiv.org/abs/2212.04248): This paper introduces a framework for one-shot audio-driven talking head generation using a probabilistic approach. It probabilistically generates facial motions matching input audio while maintaining audio-lip synchronization and overall photo-realism. It avoids the need for additional driving sources for controlled synthesis.
+- [One-Shot Free-View Neural Talking-Head Synthesis for Video Conferencing](https://arxiv.org/abs/2011.15126): The paper proposes a neural talking-head video synthesis model for video conferencing. It utilizes a source image and a driving video to synthesize the talking-head video. It outperforms competing methods on benchmark datasets and enables video conferencing with high visual quality and low bandwidth usage.
+- [Write-a-speaker: Text-based Emotional and Rhythmic Talking-head Video Generation](https://arxiv.org/abs/2104.07995): This paper presents a text-based talking-head video generation framework that synthesizes facial expressions and head motions according to contextual sentiments and speech rhythm. It consists of a speaker-independent stage and a speaker-specific stage, allowing tailored video synthesis for different individuals.
+- [Style Transfer for 2D Talking Head Animation](https://arxiv.org/abs/2303.09799): The paper introduces a method for generating talking-head animation with learnable style references. It reconstructs 2D animation based on a single input image and an audio stream by extracting facial landmarks motion and incorporating style patterns from reference images.
+
+
+## Tools & Software
+
+- [LUCIA](https://sourceforge.net/projects/lucia/): Development of a MPEG-4 Talking Head Engine. 💻
+- [Yepic Studio](https://www.g2.com/products/yepic-studio/reviews): Create and dub talking head-style videos in minutes without expensive equipment. 🎥
+- [Mel McGee's Talkbots](https://sourceforge.net/projects/talkbots/): A complete multi-browser, multi-platform talking head application in SVG suitable for web sites or as an avatar. 🗣️
+- [face3D_chung](https://sourceforge.net/projects/face3dchung/): Create 3D character avatar head objects with texture from a single photo for your games. 🎮
+- [CrazyTalk](https://www.g2.com/products/crazytalk/reviews): Exciting features for 3D head creation and automation. 🤪
+- [tts avatar free download - SourceForge](https://sourceforge.net/directory/?q=tts%20avatar) : Mel McGee's Talkbots is a complete multi-browser, multi-platform talking head. (🔧👄)
+- [Verbatim AI - Product Information, Latest Updates, and Reviews 2023](https://www.producthunt.com/products/verbatim-ai) : A simple yet powerful API to generate AI "talking head" videos in near real-time with Verbatim AI. Add interest, intrigue, and dynamism to your chat bots! (🔧👄)
+- [Best Open Source BASIC 3D Modeling Software](https://sourceforge.net/directory/3d-modeling/basic/) : Includes talk3D_chung, a small example using obj models created with face3D_chung, and speak3D_chung_dll, a dll to load and display face3D_chung talking avatars. (🛠️🎭)
+- [DVDStyler / Discussion / Help: ffmpeg-vbr or internal](https://sourceforge.net/p/dvdstyler/discussion/318795/thread/82dcb647/) : Talking heads would get a bitrate which is unnecessarily high while using DVDStyler. (🛠️👄)
+- [puffin web browser free download - SourceForge](https://sourceforge.net/directory/lisp/?q=puffin+web+browser) : Mel McGee's Talkbots is a complete multi-browser, multi-platform talking head. (🔧👄)
+- [12 best AI video generators to use in 2023 [Free and paid] | Product ...](https://www.producthunt.com/stories/best-ai-video-generators-free) : Whether you’re an entrepreneur, small business owner, or run a large company, AI video generators make it super easy to create high-quality videos from scratch. (🔧🎥)
+
+
+## Slides & Presentations
+
+- [(Paper Review)Few-Shot Adversarial Learning of Realistic Neural Talking Head Models](https://www.slideshare.net/ssuserc9d82a/paper-reviewfewshot-adversarial-learning-of-realistic-neural-talking-head-models): Presentation reviewing the few-shot adversarial learning of realistic neural talking head models.
+- [Nethania Michelle's Character | PPT](https://www.slideshare.net/ZULHICZARARIETINARBU/nethania-michelles-character): Presentation discussing the improvement of a 3D talking head for use in an avatar of a virtual meeting room.
+- [Presenting you: Top tips on presenting with Prezi Video – Prezi](https://support.prezi.com/hc/en-us/articles/360036679953-Presenting-you-Top-tips-on-presenting-with-Prezi-Video): Article providing top tips for presenting with Prezi Video.
+- [Research Presentation | PPT](https://pt.slideshare.net/willg_36/research-presentation-presentation-956726): Resident Research Presentation Slide Deck.
+- [Adding narration to your presentation (using Prezi Video) – Prezi ...](https://support.prezi.com/hc/en-us/articles/360038281894-Adding-narration-to-your-presentation-using-Prezi-Video-): Learn how to add narration to your Prezi presentation with Prezi Video.
+
 
 ---
 
