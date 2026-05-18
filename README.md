@@ -95,6 +95,7 @@ Welcome to the Awesome List for Talking Head Generation! This curated collection
 - [DVDStyler / Discussion / Help: ffmpeg-vbr or internal](https://sourceforge.net/p/dvdstyler/discussion/318795/thread/82dcb647/) : Talking heads would get a bitrate which is unnecessarily high while using DVDStyler. (🛠️👄)
 - [puffin web browser free download - SourceForge](https://sourceforge.net/directory/lisp/?q=puffin+web+browser) : Mel McGee's Talkbots is a complete multi-browser, multi-platform talking head. (🔧👄)
 - [12 best AI video generators to use in 2023 [Free and paid] | Product ...](https://www.producthunt.com/stories/best-ai-video-generators-free) : Whether you’re an entrepreneur, small business owner, or run a large company, AI video generators make it super easy to create high-quality videos from scratch. (🔧🎥)
+- [Seedance 2.0 AI Video](https://seedance2aivideo.app/): Free AI video generator with native lip-sync in 8+ languages, text-to-video, image-to-video, and multi-shot storytelling. 30 free credits with no sign-up required. (🎥👄)
 
 
 ## Slides & Presentations
