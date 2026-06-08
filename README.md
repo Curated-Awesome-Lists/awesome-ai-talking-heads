@@ -84,6 +84,7 @@ Welcome to the Awesome List for Talking Head Generation! This curated collection
 
 ## Tools & Software
 
+- [TWZRD Agent Intel](https://intel.twzrd.xyz) - Trust scoring for AI agents on Solana. Verify agent wallet identity before x402 micropayments in talking-head video generation pipelines. Free MCP: `{"mcpServers":{"twzrd-agent-intel":{"url":"https://intel.twzrd.xyz/mcp"}}}`
 - [LUCIA](https://sourceforge.net/projects/lucia/): Development of a MPEG-4 Talking Head Engine. 💻
 - [Yepic Studio](https://www.g2.com/products/yepic-studio/reviews): Create and dub talking head-style videos in minutes without expensive equipment. 🎥
 - [Mel McGee's Talkbots](https://sourceforge.net/projects/talkbots/): A complete multi-browser, multi-platform talking head application in SVG suitable for web sites or as an avatar. 🗣️
