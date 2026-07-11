@@ -22,6 +22,7 @@ Welcome to the Awesome List for Talking Head Generation! This curated collection
 - [Text2Video](https://github.com/sibozhang/Text2Video) : ICASSP 2022: "Text2Video: text-driven talking-head video synthesis with phonetic dictionary". 🔤🎞️
 - [OTAvatar](https://github.com/theEricMa/OTAvatar) : This is the official repository for OTAvatar: One-shot Talking Face Avatar with Controllable Tri-plane Rendering [CVPR2023]. 👤🎭
 - [Audio2Head](https://github.com/wangsuzhen/Audio2Head) : Code for paper "Audio2Head: Audio-driven One-shot Talking-head Generation with Natural Head Motion" in the conference of IJCAI 2021. 🗣️👤
+* [RunAPI InfiniteTalk SDK](https://github.com/runapi-ai/infinitetalk-sdk) : SDKs for audio-driven talking video workflows in JavaScript, Python, Ruby, Go, and Java. 🗣️🎥
 * [IP_LAP](https://github.com/Weizhi-Zhong/IP_LAP) : CVPR2023 talking face implementation for Identity-Preserving Talking Face Generation With Landmark and Appearance Priors. 🔥🤖
 * [Wunjo AI](https://github.com/wladradchenko/wunjo.wladradchenko.ru) : Synthesize & clone voices in English, Russian & Chinese, real-time speech recognition, deepfake face & lips animation, face swap with one photo, change video by text prompts, segmentation, and retouching. Open-source, local & free. 🗣️👤💬
 * [LIHQ](https://github.com/johnGettings/LIHQ) : Long-Inference, High Quality Synthetic Speaker (AI avatar/ AI presenter). 🎙️👤
