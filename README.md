@@ -84,6 +84,7 @@ Welcome to the Awesome List for Talking Head Generation! This curated collection
 
 ## Tools & Software
 
+- [Ideoy](https://ideoy.ai) - Remake this week's viral meme videos from one selfie (AI image-to-video, 9:16, freemium).
 - [LUCIA](https://sourceforge.net/projects/lucia/): Development of a MPEG-4 Talking Head Engine. 💻
 - [Yepic Studio](https://www.g2.com/products/yepic-studio/reviews): Create and dub talking head-style videos in minutes without expensive equipment. 🎥
 - [Mel McGee's Talkbots](https://sourceforge.net/projects/talkbots/): A complete multi-browser, multi-platform talking head application in SVG suitable for web sites or as an avatar. 🗣️
